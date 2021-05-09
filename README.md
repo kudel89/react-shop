@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple React Shop App For The Test Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Demo](https://github.com/kudel89/react-shop/).
 
 ## Available Scripts
 
