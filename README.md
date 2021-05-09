@@ -1,6 +1,6 @@
 # Simple React Shop App For The Test Project
 
-[Demo](https://github.com/kudel89/react-shop/).
+[Demo](https://kudel89.github.io/react-shop/)
 
 ## Available Scripts
 
